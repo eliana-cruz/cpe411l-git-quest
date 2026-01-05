@@ -4,3 +4,4 @@ LEVEL 3 COMPLETE: I did see the hidden note.
 LEVEL 4 COMPLETE: I fixed the sign typo.
 LEVEL 5 COMPLETE: I verified I am on my own branch.
 LEVEL 6 COMPLETE: CHEST-CODE: FOX-7
+LEVEL 7 COMPLETE: I can see what changed using git diff
